@@ -1,0 +1,10 @@
+{
+    "Name": "Coconut Palmtree",
+    "Product": 88, //Coconut ID
+    "SaplingName": "Coconut Palmtree Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Coconut Palmtree. Bears Coconuts in the summer. Only grows if the 8 surrounding \"tiles\" are empty.", //The description of the sapling, often sticks to vanilla format: Takes 28 days to produce a mature product tree. Bears type in the summer. Only grows if the 8 surrounding "tiles" are empty.
+    "Season": "summer",
+    "SaplingPurchasePrice": 4000,
+    "SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchaseRequirements": null,
+}
