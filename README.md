@@ -1,4 +1,4 @@
-# -JA-CropCarrotSV
+# -JA-Coconut tree
 uses json Assets to add coconut palmtrees to the game.
 
 Requirements:
