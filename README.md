@@ -11,3 +11,6 @@ Requirements:
 - SpaceCore
 - Expanded Preconditions Utility
 - Producer Framework Mod
+
+
+If you want to contribute, tell my via message, message me on nexusmods, or create an Issue here ;)
